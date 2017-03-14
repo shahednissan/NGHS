@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NGHS</string>
+    <string name="description">Nasirabad Government High School (Bengali: নাসিরাবাদ সরকারী উচ্চ বিদ্যালয়) is one of the best government high schools in Bangladesh situated at East Nasirabad area in Chittagong, the port-city and the second largest city of the country. It is a male-only school with about 3000 students and conducts is educational activities in two different shifts of the day</string>
+    <string name="address"> CDA Ave, Nasirabad, Chittagong 4000, Bangladesh</string>
+    <string name="contact_phone">+880 31-654131</string>
+    <string name="contact_email">NasirabadGovtHighSchool@edu.bd</string>
+</resources>
