@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         address.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String geoLocation="http://maps.google.com/maps?daddr=22.361781,91.820711";
+                String geoLocation="http://maps.google.com/maps?daddr=22.361781,91.820711"; //This will give the direction from user's current location.
                 Intent intent=new Intent(Intent.ACTION_VIEW);
                 intent.setData(Uri.parse(geoLocation));
                 if(intent.resolveActivity(getPackageManager())!=null){
